@@ -1,5 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ijx0xsf60u2zvqise6qsdlybv&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffa8a8&bar_color_cover=false">
+  </a>
+</p>
 
+<p align="center">
+┈┈┈┈┈┈┈┈
+<p align="center">
+  who else up jammin they tracks ? 
+</p>
 <!--
 **deejay109/deejay109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
