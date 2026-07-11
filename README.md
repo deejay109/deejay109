@@ -9,5 +9,3 @@
 <p align="center">
   who else up jammin they tracks ? 
 </p>
-<!--
-**deejay109/deejay109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
